@@ -18,7 +18,7 @@ output:
     toc_depth: '4'
 subtitle: <font size="2"> This document is part of the supplementary material to Costa,
   R. J., Gerstung, M. (2022), The R package $\texttt{ebmstate}$ for disease progression analysis
-  under empirical Bayes Cox models, *Biostatistics*. </font>
+  under empirical Bayes Cox models, *Biometrical Journal*. </font>
 ---
 <style type="text/css">
 
