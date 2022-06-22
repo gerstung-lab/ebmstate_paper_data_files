@@ -1,1 +1,1 @@
-Supporting code and data to the paper Costa, R J and Gerstung, M, 'The R package ebmstate for disease progression analysis under empirical Bayes Cox models.' To download, click the green 'code' button above and choose 'download ZIP' from the drop-down menu.
+Supporting code and data to the paper Costa, R J and Gerstung, M, 'ebmstate: an R package for disease progression analysis under empirical Bayes Cox models.' To download, click the green 'code' button above and choose 'download ZIP' from the drop-down menu.
